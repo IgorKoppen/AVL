@@ -13,6 +13,3 @@ Este projeto é uma implementação simples de uma Árvore AVL em Java, criado p
 1. Clone este repositório para sua máquina local.
 2. Abra o projeto no seu IDE Java preferido (por exemplo, Eclipse, IntelliJ).
 3. Execute a classe principal para ver a Árvore AVL em ação.
-
-## Contribuições
-Este é um projeto de estudo aberto a contribuições. Sinta-se à vontade para abrir um problema ou solicitar um pull request.
